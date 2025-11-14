@@ -1,1 +1,1 @@
-# SlidingPuzzleFromPhotoCSharp
+# SlidingPuzzleFromImage
